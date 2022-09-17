@@ -1,7 +1,8 @@
 
 # Dataset and model files
 
-*.dat
+# *.dat
+*.txt
 
 
 # Byte-compiled / optimized / DLL files
